@@ -1,4 +1,4 @@
-- [Старт](/ru-ru/readme.md)
+- [Приветствие](/ru-ru/readme.md)
 
 - Начало
 
@@ -6,7 +6,7 @@
 
 - Настройки
 
-  - [Базовые](/ru-ru/configuration.md)
+  - [Инструкция](/ru-ru/configuration.md)
 
 - Дополнительно
 
