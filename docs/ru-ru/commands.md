@@ -4,9 +4,9 @@
 
 # Помощь
 
-Команда `!help` выводит помощь по командам бота.
+Команда выводит помощь по командам бота.
 
-## `!help` {docsify-ignore}
+## `!help` {docsify-ignore} :id=help
 
 Выводит список доступных команд или более полную информацию по одной указанной команде.
 
@@ -30,11 +30,11 @@
 
 # Звуковой канал
 
-Команда `!v` управляет звуковым каналом бота.
+Команда управляет звуковым каналом бота.
 
 ---
 
-## `!v join` {docsify-ignore}
+## `!v join` {docsify-ignore} :id=v-join
 Заставляет бота войти в голосовой канал.  
 Бот заходит на тот канал на котором находится пользовател использовавший команду.
 
@@ -43,7 +43,7 @@
 
 ---
 
-## `!v leave` {docsify-ignore}
+## `!v leave` {docsify-ignore} :id=v-leave
 Заставляет бота выйти из звукового канала.
 
 ---
@@ -55,7 +55,7 @@
 > [!WARNING]
 > Для использования данных команд деобходимо добавить бота в голосовой канал командой [`!v join`](/ru-ru/commands?id=v-join)
 
-## `!play` {docsify-ignore}
+## `!play` {docsify-ignore} :id=short-play
 
 Команда быстрого добавления и воспроизведения записи из Youtube.
 
@@ -80,7 +80,7 @@
 
 ---
 
-## `!y add` {docsify-ignore}
+## `!y add` {docsify-ignore} :id=y-add
 
 Команда добавления трека в плейлист.
 
@@ -102,19 +102,19 @@
 
 ---
 
-## `!y play` {docsify-ignore}
+## `!y play` {docsify-ignore} :id=y-play
 
 Команда начинает воспроизведение трека из плейлиста.
 
 ---
 
-## `!y stop` {docsify-ignore}
+## `!y stop` {docsify-ignore} :id=y-stop
 
 Команда остановки воспроизведения.
 
 ---
 
-## `!y clear` {docsify-ignore}
+## `!y clear` {docsify-ignore} :id=y-clear
 
 Команда очистки плэйлиста. Удаляет все видео из проигрывателя.
 
@@ -123,13 +123,13 @@
 
 ---
 
-## `!y skip` {docsify-ignore}
+## `!y skip` {docsify-ignore} :id=y-skip
 
 Команда пропускает текущий воспроизводящийся трек и начинает воспроизведение следующего.
 
 ---
 
-## `!y list` {docsify-ignore}
+## `!y list` {docsify-ignore} :id=y-list
 
 Команда выводит список треков из плэйлиста.
 
@@ -142,7 +142,7 @@
 > [!WARNING]
 > Для использования данных команд деобходимо добавить бота в голосовой канал командой [`!v join`](/ru-ru/commands?id=v-join)
 
-## `!r play` {docsify-ignore}
+## `!r play` {docsify-ignore} :id=r-play
 
 Начинает проигрывание онлайн радиостанции по ссылке.
 
@@ -165,7 +165,7 @@
 
 ---
 
-## `!r stop` {docsify-ignore}
+## `!r stop` {docsify-ignore} id=r-stop
 
 Останавливает воспроизведение радио.
 
@@ -175,7 +175,7 @@
 
 Команда выводит прогноз погоды для указанного места.
 
-## `!w` {docsify-ignore}
+## `!w` {docsify-ignore} :id=weather
 
 Выводит прогноз погоды.  
 Если не указывать место то выведет прогноз погоды для стандартного места указанного в настройках сервера.
@@ -204,7 +204,7 @@
 
 Команда выводит новости из указаных категорий.
 
-## `!n` {docsify-ignore}
+## `!n` {docsify-ignore} :id=news
 
 Команда новостей. Выводит новости из категории указаной в аргументе.  
 Выбирает новости той страны которая указана в настройках для сервера.
@@ -246,7 +246,7 @@ technology | Новости технологий
 Команда переводчика.  
 Используетя Яндекс.Переводчик для перевода текста.
 
-## `!t` {docsify-ignore}
+## `!t` {docsify-ignore} :id=translate
 
 Команда переводчика принимает два аргумента, это на какой язык переводить и сам текст который нужно перевести.
 
@@ -327,7 +327,7 @@ technology | Новости технологий
 
 Команда показывает курс валют и конвертирует одну валюту в другую.
 
-## `!c` {docsify-ignore}
+## `!c` {docsify-ignore} :id=currency
 
 Выводит курс указанных валют. Если валюты не указаны выводит курс валют установленых в настройках.
 
@@ -379,7 +379,7 @@ technology | Новости технологий
 
 ---
 
-## `!c conv` {docsify-ignore}
+## `!c conv` {docsify-ignore} :id=c-conv
 
 Конвертирует первую валюту во вторую.
 
@@ -437,7 +437,7 @@ technology | Новости технологий
 > [!WARNING]
 > На одном сервере может быть только один действующий опрос
 
-## `!p new` {docsify-ignore}
+## `!p new` {docsify-ignore} :id=p-new
 
 Команда создаёт новый опрос.
 
@@ -459,7 +459,7 @@ technology | Новости технологий
 
 ---
 
-## `!p vote` {docsify-ignore}
+## `!p vote` {docsify-ignore} :id=p-vote
 
 Команда голосования. Оставляет голос на указанном ответе.
 
@@ -481,7 +481,7 @@ technology | Новости технологий
 
 ---
 
-## `!p end` {docsify-ignore}
+## `!p end` {docsify-ignore} :id=p-end
 
 Команда заканчивает опрос и выводит его результаты.
 
@@ -492,7 +492,7 @@ technology | Новости технологий
 Команда отправки карты.
 
 
-## `!map` {docsify-ignore}
+## `!m` {docsify-ignore} :id=map
 
 Команда отправляет снимок карты указанного места.
 
@@ -531,7 +531,7 @@ sat | Спутниковый снимок
 
 Определение местоположения по IP адресу.
 
-## `!geoip` {docsify-ignore}
+## `!geoip` {docsify-ignore} :id=geoip
 
 Команда определяет местополодение IP адреса.
 
@@ -558,7 +558,10 @@ IP адрес | [Строка](/ru-ru/arguments?id=string) | Да
 
 Анонсер стримов на Twitch.
 
-## `!twitch add` {docsify-ignore}
+> [!WARNING]
+> Для использования данных команд необходимо обладать [правами администратора](/ru-ru/configuration?id=admin-rules) бота на сервере!
+
+## `!twitch add` {docsify-ignore} :id=twitch-add
 
 Добавить стримера в анонсер.
 
@@ -580,7 +583,7 @@ IP адрес | [Строка](/ru-ru/arguments?id=string) | Да
 
 ---
 
-## `!twitch remove` {docsify-ignore}
+## `!twitch remove` {docsify-ignore} :id=twitch-remove
 
 Удалить стримера из анонсера.
 
@@ -606,7 +609,10 @@ IP адрес | [Строка](/ru-ru/arguments?id=string) | Да
 
 Добавление приветствия новых людей на сервере
 
-## `!greetings add` {docsify-ignore}
+> [!WARNING]
+> Для использования данных команд необходимо обладать [правами администратора](/ru-ru/configuration?id=admin-rules) бота на сервере!
+
+## `!greetings add` {docsify-ignore} :id=greetings-add
 
 Команда добавляет приветствие на сервер
 
@@ -628,12 +634,12 @@ IP адрес | [Строка](/ru-ru/arguments?id=string) | Да
 
 ---
 
-## `!greetings remove` {docsify-ignore}
+## `!greetings remove` {docsify-ignore} :id=greetings-remove
 
 Команда удаляет приветствие с сервера.
 
 ---
 
-## `!greetings test` {docsify-ignore}
+## `!greetings test` {docsify-ignore} :id=greetings-test
 
 Команда отправляет вам приветсвие.

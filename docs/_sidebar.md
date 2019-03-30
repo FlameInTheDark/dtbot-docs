@@ -1,3 +1,2 @@
-- Getting started
 
-  - [Commands](commands.md)
+- [Home](readme.md) 

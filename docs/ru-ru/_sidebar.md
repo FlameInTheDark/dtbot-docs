@@ -3,6 +3,7 @@
 - Начало
 
   - [Список команд](/ru-ru/commands.md)
+  - [Команды админа](/ru-ru/admin.md)
 
 - Настройки
 
@@ -13,4 +14,5 @@
   - [Аргументы](/ru-ru/arguments.md)
 
 - [Список изменений](/ru-ru/changelog.md)
-- [Github](https://github.com/FlameInTheDark/dtbot)
+- [Бот на Github](https://github.com/FlameInTheDark/dtbot)
+- [Документация на Github](https://github.com/FlameInTheDark/dtbot-docs)
