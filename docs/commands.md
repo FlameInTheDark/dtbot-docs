@@ -358,7 +358,7 @@ italian | it | Telugu | te
 Icelandic | is | Turkish | tr
 spanish | es | Udmurt | udm
 Kazakh | kk | Uzbek | uz
-Kannada | kn | Ukrainian | uk 
+Kannada | kn | Ukrainian | uk
 Catalan | ca | Urdu | ur
 Kyrgyz | ky | Finnish | fi
 Chinese | zh | french | fr
