@@ -324,7 +324,7 @@ Text | [String](/arguments?id=string) | Yes
 <br>
 
 Language | Code | Language | Code
-: --- | ---: |: --- | ---:
+:--- | ---: | :--- | ---:
 Azerbaijani | az | Malayalam | ml
 Albanian | sq | Maltese | mt
 Amharic | am | Macedonian | mk
@@ -345,7 +345,7 @@ Vietnamese | vi | Russian | ru
 Haitian (Creole) | ht | sebouan | ceb
 Galician | gl | Serbian | sr
 Dutch | nl | Sinhala | si
-gornomariysky | mrj | Slovak | sk
+Gornomariysky | mrj | Slovak | sk
 Greek | el | Slovenian | sl
 Georgian | ka | Swahili | sw
 Gujarati | gu | sundanese | su
@@ -410,7 +410,7 @@ Currency | [Currency code](/arguments?id=currency-code) | No
 <br>
 
 Currency | Code | Currency | Code
-: --- | ---: |: --- | ---:
+:--- | ---: | :--- | ---:
 Ruble | RUB | US dollar | USD
 Moldovan Leu | MDL | Canadian Dollar | CAD
 Uzbek sum | UZS | Norwegian Krone | NOK
@@ -461,7 +461,7 @@ Sum | [Number](/arguments?id=number) | Yes
 <br>
 
 Currency | Code | Currency | Code
-: --- | ---: |: --- | ---:
+:--- | ---: | :--- | ---:
 Ruble | RUB | US dollar | USD
 Moldovan Leu | MDL | Canadian Dollar | CAD
 Uzbek sum | UZS | Norwegian Krone | NOK
