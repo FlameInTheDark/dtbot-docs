@@ -466,18 +466,18 @@ Ruble | RUB | US dollar | USD
 Moldovan Leu | MDL | Canadian Dollar | CAD
 Uzbek sum | UZS | Norwegian Krone | NOK
 Czech Koruna | CZK | Pound sterling | GBP
-Belarusian ruble | BYN | Forint | Huf
+Belarusian ruble | BYN | Forint | HUF
 Indian Rupee | INR | Ukrainian hryvnia | UAH
-Zloty | PLN | Rand | Zar
+Zloty | PLN | Rand | ZAR
 Singapore Dollar | SGD | Euro | EUR
 Swiss franc | CHF | Tenge | KZT
-Yen | JPY | Yesтcrown crown | Dkk
+Yen | JPY | Yesтcrown crown | DKK
 Azerbaijani manat | AZN | Yuan | CNY
 Som | KGS | Turkish Lira | TRY
 New Romanian Leu | RON | New Turkmen Manat | TMT
 Somoni | TJS | Swedish crown | SEK
 Armenian Dram | AMD | Won | KRW
-Bulgarian lion | BGN | Australian Dollar | Aud
+Bulgarian lion | BGN | Australian Dollar | AUD
 Hong kong dollar | HKD | Brazilian Real | BRL
 SDR (Special Drawing Rights) | XDR
 
