@@ -21,5 +21,5 @@ Here you can find information about configuration and bot commands.
 
 * [Commands list](/commands.md)
 
-## See on another languages {docsify-ignore}
+## Read on other languages {docsify-ignore}
 * [Russian](/ru-ru/readme.md)
